@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/xenoiz2k22/static/css/main.5c31810e.css",
-    "main.js": "/xenoiz2k22/static/js/main.044478a0.js",
+    "main.css": "/xenoiz2k22/static/css/main.f9cf4581.css",
+    "main.js": "/xenoiz2k22/static/js/main.0e2c0248.js",
     "index.html": "/xenoiz2k22/index.html",
-    "main.5c31810e.css.map": "/xenoiz2k22/static/css/main.5c31810e.css.map",
-    "main.044478a0.js.map": "/xenoiz2k22/static/js/main.044478a0.js.map"
+    "main.f9cf4581.css.map": "/xenoiz2k22/static/css/main.f9cf4581.css.map",
+    "main.0e2c0248.js.map": "/xenoiz2k22/static/js/main.0e2c0248.js.map"
   },
   "entrypoints": [
-    "static/css/main.5c31810e.css",
-    "static/js/main.044478a0.js"
+    "static/css/main.f9cf4581.css",
+    "static/js/main.0e2c0248.js"
   ]
 }
